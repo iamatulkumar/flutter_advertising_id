@@ -1,7 +1,7 @@
 name: flutter_advertising_id
 description: Flutter plugin for Android and IOS, a cross-platform to get
   Advertising id that is GAID for android and IDFA for ios.
-version: 1.0.0
+version: 1.0.1
 author: Atul kumar <iamatul9074@gmail.com>
 homepage: https://github.com/iamatulkumar/flutter_advertising_id
 
