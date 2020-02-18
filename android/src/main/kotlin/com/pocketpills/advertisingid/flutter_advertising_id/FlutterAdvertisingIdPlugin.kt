@@ -1,3 +1,7 @@
+// Copyright 2020 The Author. All rights reserved.
+// Use of this source code is governed by a license that can be
+// found in the LICENSE file.
+
 package com.pocketpills.advertisingid.flutter_advertising_id
 
 import com.google.android.gms.ads.identifier.AdvertisingIdClient
@@ -11,6 +15,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.functions.Consumer
 import io.reactivex.schedulers.Schedulers
 
+/** FlutterAdvertisingIdPlugin */
 class FlutterAdvertisingIdPlugin(private val registrar: Registrar) : MethodCallHandler {
 
     companion object {
@@ -21,6 +26,9 @@ class FlutterAdvertisingIdPlugin(private val registrar: Registrar) : MethodCallH
         }
     }
 
+    /**
+     * Method channel
+     */
     override fun onMethodCall(call: MethodCall, result: Result) {
         when (call.method) {
             "getAdvertisingId" -> {

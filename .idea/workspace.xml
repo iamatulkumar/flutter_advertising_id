@@ -615,11 +615,12 @@
       <change beforePath="$PROJECT_DIR$/../../lib/utils/size_config.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lib/utils/string_utils.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../native_mixpanel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/com/pocketpills/advertisingid/flutter_advertising_id/FlutterAdvertisingIdPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/kotlin/com/pocketpills/advertisingid/flutter_advertising_id/FlutterAdvertisingIdPlugin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_advertising_id.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_advertising_id.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterAdvertisingIdPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftFlutterAdvertisingIdPlugin.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pubspec.yaml" beforeDir="false" />
     </list>
@@ -684,7 +685,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582011433049</updated>
-      <workItem from="1582011506062" duration="4837000" />
+      <workItem from="1582011506062" duration="5668000" />
     </task>
     <servers />
   </component>
