@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
     initPlatformState();
   }
 
-  // Platform messages are asynchronous, so we initialize in an async method.
+  // AdvertisingId are asynchronous, so we initialize in an async method.
   Future<void> initPlatformState() async {
     String advertisingId;
     // Advertising id may fail, so we use a try/catch PlatformException.
