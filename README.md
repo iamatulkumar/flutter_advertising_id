@@ -16,7 +16,7 @@ In your flutter project add the dependency:
 ```yml
 dependencies:
   ...
-  flutter_advertising_id: ^0.0.1
+  flutter_advertising_id: ^1.0.3
 ```
 For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
